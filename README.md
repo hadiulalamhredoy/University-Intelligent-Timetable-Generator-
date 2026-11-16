@@ -1,1 +1,1 @@
-# University-Intelligent-Timetable-Generator-
+# University-Intelligent-Timetable-Generator
